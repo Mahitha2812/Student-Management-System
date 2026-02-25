@@ -1,0 +1,9 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore IDE project files
+*.idea/
+*.iml
